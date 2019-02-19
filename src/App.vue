@@ -7,7 +7,7 @@
 <script>
 import Film from './views/Film.vue';
 export default {
-  components:{
+  components: {
     Film
   }
 }

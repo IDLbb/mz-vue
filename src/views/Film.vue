@@ -11,10 +11,10 @@ import MzBanner from '../components/MzBanner';
 import MzTabs from '../components/MzTabs';
 import MzFooter from '../components/MzFooter';
 export default {
-    components: {
-        MzBanner,
-        MzFooter,
-        MzTabs
-    }
+  components: {
+    MzBanner,
+    MzFooter,
+    MzTabs
+  }
 }
 </script>
